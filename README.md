@@ -1,5 +1,4 @@
 # Logistic-Regression-Project
-Logistic Regression project with fake advertisement dataset
 
 This is one of the projects given in the Udemy course'Python for Data Science and Machine Learning' by Pierian Data. In this project I worked with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. Using logistic regression model I created a model that predicts whether an internet user has clicked on an Advertisement or not. 
 
